@@ -38,7 +38,7 @@
      inkscape:cx="28.379873"
      inkscape:cy="-51.562197"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="text47203-2"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1366"
@@ -58,7 +58,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -146,17 +146,43 @@
            style="fill:#fe7865;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0269057"
            d="m -280.62981,413.8329 c 1.78923,0.0293 3.57899,0.006 5.36795,-0.077 0.66457,-0.0312 1.33317,-0.0691 2.0007,-0.12403 -1.05308,0.8443 -1.8503,1.98967 -2.75783,2.98114 -1.28824,1.40878 -2.69756,2.679 -4.35414,3.64141 -0.14986,0.0872 -0.1087,0.26179 8.1e-4,0.34063 0.0344,0.0457 0.088,0.0751 0.16574,0.0632 0.81551,-0.12269 1.61918,-0.29139 2.41075,-0.50179 -0.68045,1.95765 -0.87605,4.40311 -0.10709,6.3387 0.81443,2.05048 3.14393,2.81567 5.06849,3.48401 0.0113,0.004 0.0204,0.002 0.0312,0.004 0.71945,2.06743 1.99155,4.07539 4.07889,4.83925 0.89811,0.32878 1.93613,0.34708 2.80008,-0.0845 0.19103,0.89461 0.55237,1.72385 1.06546,2.43631 -1.66277,0.80152 -3.53971,0.99066 -5.36364,1.08268 -1.75183,0.0885 -3.332,-0.23192 -4.66921,-1.42277 -1.07596,-0.95838 -1.8651,-2.18339 -2.69003,-3.35164 -0.85963,-1.21667 -1.76554,-2.39971 -2.73119,-3.53459 -1.07084,-1.25919 -2.21406,-2.4581 -3.44231,-3.56446 -0.50717,-0.45686 -1.27506,-0.87874 -1.68671,-1.41712 -0.50152,-0.65623 0.0996,-1.92941 0.31479,-2.61658 0.96888,-3.08365 2.5068,-5.95556 4.49029,-8.50353 0.003,-0.005 0.004,-0.009 0.007,-0.0137" />
       </g>
-      <text
-         xml:space="preserve"
-         style="font-weight:900;font-size:32px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Heavy';fill:#777777;fill-opacity:1"
-         x="138.43935"
-         y="96.680573"
-         id="text47203-2"><tspan
-           sodipodi:role="line"
-           id="tspan47201-5"
-           x="138.43935"
-           y="96.680573"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:32px;font-family:'Futura Std';-inkscape-font-specification:'Futura Std Bold Condensed';fill:#777777;fill-opacity:1">Fiorella</tspan></text>
+      <g
+         aria-label="Fiorella"
+         id="text47203-2"
+         style="font-weight:900;font-size:32px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Heavy';fill:#777777;fill-opacity:1">
+        <path
+           d="m 140.13535,72.552573 v 24.128 h 4.768 v -10.016 h 4.384 v -4.48 h -4.384 v -5.152 h 4.864 v -4.48 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:32px;font-family:'Futura Std';-inkscape-font-specification:'Futura Std Bold Condensed';fill:#777777;fill-opacity:1"
+           id="path31" />
+        <path
+           d="m 152.13532,80.520573 v 16.16 h 4.512 v -16.16 z m 2.24,-1.92 c 1.568,0 2.88,-1.312 2.88,-2.848 0,-1.536 -1.216,-2.912 -2.784,-2.912 -1.632,0 -2.944,1.216 -2.944,2.848 0,1.6 1.28,2.912 2.848,2.912 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:32px;font-family:'Futura Std';-inkscape-font-specification:'Futura Std Bold Condensed';fill:#777777;fill-opacity:1"
+           id="path33" />
+        <path
+           d="m 164.71131,80.200573 c -4.832,0 -6.144,4.288 -6.144,8.416 0,4.128 1.312,8.384 6.144,8.384 4.832,0 6.144,-4.256 6.144,-8.384 0,-4.128 -1.312,-8.416 -6.144,-8.416 z m 0,4.064 c 1.568,0 1.632,3.424 1.632,4.352 0,0.928 -0.064,4.352 -1.632,4.352 -1.568,0 -1.632,-3.424 -1.632,-4.352 0,-0.928 0.064,-4.352 1.632,-4.352 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:32px;font-family:'Futura Std';-inkscape-font-specification:'Futura Std Bold Condensed';fill:#777777;fill-opacity:1"
+           id="path35" />
+        <path
+           d="m 172.80727,80.520573 v 16.16 h 4.512 v -8.064 c 0,-2.4 0.032,-4.384 3.04,-4.384 0.256,0 0.48,0.032 0.704,0.064 v -4.384 c -1.76,0.16 -2.848,1.152 -3.68,2.56 h -0.064 v -1.952 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:32px;font-family:'Futura Std';-inkscape-font-specification:'Futura Std Bold Condensed';fill:#777777;fill-opacity:1"
+           id="path37" />
+        <path
+           d="m 190.27923,87.016573 h -3.296 v -0.48 c 0,-1.024 0.288,-2.88 1.664,-2.88 1.408,0 1.632,1.92 1.632,2.976 z m 3.904,0.928 c 0.256,-5.088 -2.496,-7.744 -5.472,-7.744 -4.704,0 -6.112,4.864 -6.112,8.736 0,4 1.632,8.064 6.208,8.064 1.664,0 2.848,-0.576 3.648,-1.536 0.832,-0.96 1.28,-2.304 1.472,-3.776 h -3.84 c 0,0.96 -0.288,1.856 -1.44,1.856 -1.728,0 -1.664,-2.56 -1.696,-3.744 h 7.136 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:32px;font-family:'Futura Std';-inkscape-font-specification:'Futura Std Bold Condensed';fill:#777777;fill-opacity:1"
+           id="path39" />
+        <path
+           d="m 196.13521,70.856573 v 25.824 h 4.512 v -25.824 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:32px;font-family:'Futura Std';-inkscape-font-specification:'Futura Std Bold Condensed';fill:#777777;fill-opacity:1"
+           id="path41" />
+        <path
+           d="m 202.85518,70.856573 v 25.824 h 4.512 v -25.824 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:32px;font-family:'Futura Std';-inkscape-font-specification:'Futura Std Bold Condensed';fill:#777777;fill-opacity:1"
+           id="path43" />
+        <path
+           d="m 215.46315,92.872573 c -1.6,0 -1.664,-3.328 -1.664,-4.352 0,-0.928 0.096,-4.32 1.6,-4.32 1.536,0 1.632,3.424 1.632,4.32 0,0.864 -0.128,4.352 -1.568,4.352 z m 1.248,3.808 h 4.512 v -16.16 h -4.512 v 1.984 h -0.064 c -0.512,-1.312 -1.536,-2.304 -3.04,-2.304 -3.776,0 -4.32,5.6 -4.32,8.384 0,2.592 0.736,8.416 4.384,8.416 1.44,0 2.368,-0.928 2.976,-2.144 h 0.064 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:32px;font-family:'Futura Std';-inkscape-font-specification:'Futura Std Bold Condensed';fill:#777777;fill-opacity:1"
+           id="path45" />
+      </g>
     </g>
   </g>
 </svg>
